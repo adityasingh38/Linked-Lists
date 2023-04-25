@@ -219,4 +219,4 @@ void disp()
 
 ### Output:
 
-![linkedLists.c output](https://github.com/Aditi-exe/C-Linked-Lists/blob/main/linkedLists1.PNG)
+![OP1](https://user-images.githubusercontent.com/88421625/234431319-4939efe0-bcbe-4d96-9917-7899efcffe1b.png)
